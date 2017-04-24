@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=baby2
+comment0.text=\n\ Write\ a\ description\ of\ class\ baby2\ here.\n\ \n\ @author\ (your\ name)\ \n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=
+comment1.target=void\ act()
+comment2.params=
+comment2.target=void\ setLocation()
+comment3.params=
+comment3.target=void\ keyCheck()
+comment4.params=
+comment4.target=void\ hitBaby()
+comment5.params=
+comment5.target=void\ checkTouch()
+numComments=6
